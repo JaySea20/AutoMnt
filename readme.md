@@ -1,7 +1,7 @@
 # Automnt - Developer Documentation
 
 ## Overview
-`Automnt` is a Python-based application for managing Rclone mounts. The app leverages JSON-based configuration files for defining mount objects, tracking active mounts, and managing global settings. This documentation is intended for developers who wish to understand the app’s structure, the JSON schemas, and the available methods.
+`Automnt` is a Python-based application for managing Rclone mounts without root access. The app leverages JSON-based configuration files for defining mount objects, tracking active mounts, and managing global settings. This documentation is intended for developers who wish to understand the app’s structure, the JSON schemas, and the available methods.
 
 ---
 
