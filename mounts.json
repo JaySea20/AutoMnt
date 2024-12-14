@@ -1,0 +1,62 @@
+[
+    {
+        "name": "eca",
+        "remote": {
+            "name": "eca:",
+            "type": "unknown"
+        },
+        "mount_point": "/home/joshua/mounts/eca",
+        "options": [],
+        "auto_restart": false,
+        "description": "Imported mount for eca:",
+        "enable": true
+    },
+    {
+        "name": "gcrypt",
+        "remote": {
+            "name": "gcrypt:",
+            "type": "unknown"
+        },
+        "mount_point": "/home/joshua/mounts/gcrypt",
+        "options": ["--allow-other"],
+        "auto_restart": false,
+        "description": "Imported mount for gcrypt:",
+        "enable": false
+    },
+    {
+        "name": "gcrypt-eca",
+        "remote": {
+            "name": "gcrypt-eca:",
+            "type": "unknown"
+        },
+        "mount_point": "/home/joshua/mounts/gcrypt-eca",
+        "options": [],
+        "auto_restart": false,
+        "description": "Imported mount for gcrypt-eca:",
+        "enable": true
+    },
+    {
+        "name": "gdrive",
+        "remote": {
+            "name": "gdrive:",
+            "type": "unknown"
+        },
+        "mount_point": "/home/joshua/mounts/gdrive",
+        "options": [],
+        "auto_restart": false,
+        "description": "Imported mount for gdrive:",
+        "enable": true
+    },
+    {
+        "name": "gunion",
+        "remote": {
+            "name": "gunion:",
+            "type": "unknown"
+        },
+        "mount_point": "/home/joshua/mounts/gunion",
+        "options": [],
+        "auto_restart": false,
+        "description": "Imported mount for gunion:",
+        "enable": true
+    }
+]

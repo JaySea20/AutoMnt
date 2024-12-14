@@ -1,0 +1,16 @@
+{
+    "global_config": {
+        "defaults": {
+            "options": {
+                "--vfs-cache-mode": "writes",
+                "--buffer-size": "32M"
+            },
+            "auto_restart": false,
+            "description": "Default mount configuration",
+            "enable": true
+        },
+        "watchdog_interval": 10,
+        "log_level": "INFO",
+        "mount_base_dir": "/home/user/mounts"
+    }
+}
